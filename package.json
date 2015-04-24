@@ -1,0 +1,10 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "fs": "*",
+    "findit": "*",
+    "path": "*",
+    "Underscore": "*"
+  }
+}

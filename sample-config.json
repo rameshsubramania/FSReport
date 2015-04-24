@@ -1,0 +1,6 @@
+{
+  "FileSystem": {
+    "RootFolderPath" : "filepath",
+    "FileExtension" : "file extension to scan for"
+  }
+}
