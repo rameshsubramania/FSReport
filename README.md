@@ -1,5 +1,5 @@
 # FSReport
-Useful reports for file system
+Useful reports for file system, the intial version provides option to get recent and oldest file in a folder.
 
 ## Pre-requisites
 Make sure the latest nodejs version is installed
